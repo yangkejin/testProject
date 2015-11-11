@@ -15,6 +15,7 @@
 		18BA79781BF347C000FFB8B1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18BA79761BF347C000FFB8B1 /* LaunchScreen.xib */; };
 		18BA79841BF347C000FFB8B1 /* abcdTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18BA79831BF347C000FFB8B1 /* abcdTests.m */; };
 		18BA798F1BF34B4300FFB8B1 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 18BA798E1BF34B4300FFB8B1 /* ViewController2.m */; };
+		18BA79921BF34BB700FFB8B1 /* aaaaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = 18BA79911BF34BB700FFB8B1 /* aaaaaa.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		18BA79831BF347C000FFB8B1 /* abcdTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = abcdTests.m; sourceTree = "<group>"; };
 		18BA798D1BF34B4300FFB8B1 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
 		18BA798E1BF34B4300FFB8B1 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		18BA79901BF34BB700FFB8B1 /* aaaaaa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaaaaa.h; sourceTree = "<group>"; };
+		18BA79911BF34BB700FFB8B1 /* aaaaaa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaaaaa.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				18BA796F1BF347C000FFB8B1 /* ViewController.m */,
 				18BA798D1BF34B4300FFB8B1 /* ViewController2.h */,
 				18BA798E1BF34B4300FFB8B1 /* ViewController2.m */,
+				18BA79901BF34BB700FFB8B1 /* aaaaaa.h */,
+				18BA79911BF34BB700FFB8B1 /* aaaaaa.m */,
 				18BA79711BF347C000FFB8B1 /* Main.storyboard */,
 				18BA79741BF347C000FFB8B1 /* Images.xcassets */,
 				18BA79761BF347C000FFB8B1 /* LaunchScreen.xib */,
@@ -227,6 +232,7 @@
 				18BA79701BF347C000FFB8B1 /* ViewController.m in Sources */,
 				18BA798F1BF34B4300FFB8B1 /* ViewController2.m in Sources */,
 				18BA796D1BF347C000FFB8B1 /* AppDelegate.m in Sources */,
+				18BA79921BF34BB700FFB8B1 /* aaaaaa.m in Sources */,
 				18BA796A1BF347C000FFB8B1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
